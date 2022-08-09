@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cristhian</h1>
 <h3 align="center">A passionate frontend developer from Ecuador</h3>
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Frotend**
 
 - 💬 Ask me about **boostrap**
 
